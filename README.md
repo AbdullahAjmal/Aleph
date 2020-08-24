@@ -16,13 +16,13 @@ FYP-1 implementation
 
 <br>
 <h3><strong> Button Screen </strong></h3>
-<img height=" 300px" src="https://github.com/MishalKhan100/Aleph-App/blob/master/images/c4.JPG" />
+<img height=" 300px" src="https://github.com/MishalKhan100/Aleph-App/blob/master/img/c4.jpeg" />
 <br>
 <p>
 
 <h3><strong> Intermediate Level </strong></h3>
-<img height=" 300px" src="https://github.com/MishalKhan100/Aleph-App/blob/master/images/c5.JPG" />
+<img height=" 300px" src="https://github.com/MishalKhan100/Aleph-App/blob/master/img/c5.jpeg" />
 <br>
 <h3><strong> Expert Level </strong></h3>
-<img height=" 300px" src="https://github.com/MishalKhan100/Aleph-App/blob/master/images/c6.JPG" />
+<img height=" 300px" src="https://github.com/MishalKhan100/Aleph-App/blob/master/img/c6.jpeg" />
 <br>
